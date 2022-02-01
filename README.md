@@ -1,0 +1,2 @@
+# CostSystem
+The Cost Management System is developed to help restaurant owners, management, and food industry professionals to easily manage their expenses to increase profitability. The main objective of this system is to provide an easy and effective way of keeping track of expenses of employees and ingredients as well as help with monthly expenses of the company. Thereby reducing much of the administrative tasks and focusing on the nutrition aspect. It is a web based application designed and coded using MySQL, PHP, CSS and HTML.
