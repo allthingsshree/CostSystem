@@ -23,6 +23,6 @@ This project is created with:
 * create, copy, drop, rename and alter databases, tables, fields and indexes
 * maintenance server, databases and tables, with proposals on server
 * configuration
-* execute, edit and bookmark any SQL-statement, even batch-queries
+* execute, edit any SQL-statement, even batch-queries
 * manage MySQL user accounts and privileges
 * manage stored procedures and triggers
