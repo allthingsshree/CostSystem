@@ -15,12 +15,12 @@ This project is created with:
 ![image](https://user-images.githubusercontent.com/97153471/152097272-2b5a7677-840d-4751-8d5d-273ac72f3ccc.png)
 
 ### Features
-• Intuitive web interface
-• Support for most MySQL features:
-❏ browse and drop databases, tables, views, fields and indexes
-❏ create, copy, drop, rename and alter databases, tables, fields and indexes
-❏ maintenance server, databases and tables, with proposals on server
-❏ configuration
-❏ execute, edit and bookmark any SQL-statement, even batch-queries
-❏ manage MySQL user accounts and privileges
-❏ manage stored procedures and triggers
+* Intuitive web interface
+* Support for most MySQL features:
+* browse and drop databases, tables, views, fields and indexes
+* create, copy, drop, rename and alter databases, tables, fields and indexes
+* maintenance server, databases and tables, with proposals on server
+* configuration
+* execute, edit and bookmark any SQL-statement, even batch-queries
+* manage MySQL user accounts and privileges
+* manage stored procedures and triggers
